@@ -1,0 +1,34 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Bruno",
+      "surnames": "Orcha García",
+      "description": "Soy Ingeniero Informático con 14 años de experiencia de todo tipo. Siempre obsesionado por mejorar, tanto yo, como hacer mejorar a los que me rodean.\n\nEn las dos empresas en las que he estado han acabado por tener que crear un departamento para aprovechar mis cualidades 😂. Me han llegado a etiquetar de Profesor/Ninja/Señor Lobo/Gurú/Apaga fuegos ... Me apasiona mejorar los procesos, definir las buenas prácticas, encontrar soluciones a retos imposibles.\n\nMe fui de mi primera empresa rechazando ser socio por comenzar una nueva etapa en una empresa pública de informática. Pero la burocracia y el sistema de promoción inexistente, hace que los méritos no puedan ser recompensados, y ante esta perspectiva prefiero cambiar a que llegue la desmotivación.\n"
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/gimco"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/"
+        }
+      ]
+    }
+  }
+}
