@@ -8,7 +8,11 @@
     "profile": {
       "name": "Bruno",
       "surnames": "Orcha García",
-      "description": "Soy Ingeniero Informático con 14 años de experiencia de todo tipo. Siempre obsesionado por mejorar, tanto yo, como hacer mejorar a los que me rodean.\n\nEn las dos empresas en las que he estado han acabado por tener que crear un departamento para aprovechar mis cualidades 😂. Me han llegado a etiquetar de Profesor/Ninja/Señor Lobo/Gurú/Apaga fuegos ... Me apasiona mejorar los procesos, definir las buenas prácticas, encontrar soluciones a retos imposibles.\n\nMe fui de mi primera empresa rechazando ser socio por comenzar una nueva etapa en una empresa pública de informática. Pero la burocracia y el sistema de promoción inexistente, hace que los méritos no puedan ser recompensados, y ante esta perspectiva prefiero cambiar a que llegue la desmotivación.\n"
+      "title": "",
+      "description": "Ingeniero Informático con mas de 16 años de experiencia en el análisis y desarrollo de sistemas basados en tecnologías Java. Durante mi carrera laboral he podido participar en proyectos de distinta envergadura, desempeñando todo tipo de roles, principalmente con responsabilidades técnicas y de arquitectura de sistemas.",
+      "location": {
+        "notes": ""
+      }
     },
     "relevantLinks": [
       {
@@ -16,8 +20,16 @@
         "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/"
       },
       {
+        "type": "github",
+        "URL": "https://github.com/gimco/"
+      },
+      {
         "type": "twitter",
         "URL": "https://twitter.com/gimco"
+      },
+      {
+        "type": "other",
+        "URL": "https://blog.gimco.es"
       }
     ]
   },
