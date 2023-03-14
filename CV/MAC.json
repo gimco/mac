@@ -11,6 +11,9 @@
       "title": "",
       "description": "",
       "location": {
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Cádiz",
         "notes": "Autocompleted using Google Maps API"
       }
     },
