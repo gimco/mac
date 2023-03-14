@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,15 +9,15 @@
       "name": "Bruno",
       "surnames": "Orcha García",
       "title": "",
-      "description": "Ingeniero Informático con mas de 16 años de experiencia en el análisis y desarrollo de sistemas basados en tecnologías Java. Durante mi carrera laboral he podido participar en proyectos de distinta envergadura, desempeñando todo tipo de roles, principalmente con responsabilidades técnicas y de arquitectura de sistemas.",
+      "description": "",
       "location": {
-        "notes": ""
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/"
+        "type": "other",
+        "URL": "https://blog.gimco.es"
       },
       {
         "type": "github",
@@ -28,8 +28,72 @@
         "URL": "https://twitter.com/gimco"
       },
       {
-        "type": "other",
-        "URL": "https://blog.gimco.es"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Clojure",
+          "type": "technology"
+        }
       }
     ]
   },
@@ -41,6 +105,18 @@
           "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/"
         }
       ]
-    }
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Backend Developer",
+        "DevOps & Infrastructure & SRE",
+        "Full-stack Developer",
+        "Project Manager & Delivery Manager",
+        "Scrum Master & Agile Coach",
+        "Software Architect",
+        "Tech Lead"
+      ]
+    },
+    "status": "searchingActively"
   }
 }
