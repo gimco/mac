@@ -1,26 +1,26 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Bruno",
       "surnames": "Orcha García",
       "title": "seeking for problems to defeat",
-      "description": "",
+      "description": "Ingeniero Informático con mas de 16 años de experiencia en el análisis y desarrollo de sistemas basados en tecnologías Java. Durante mi carrera laboral he podido participar en proyectos de distinta envergadura, desempeñando todo tipo de roles, principalmente con responsabilidades técnicas y de arquitectura de sistemas.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJDyTsJFfSDQ0RADugjP1jBAQ)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Cádiz",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Cádiz"
       }
     },
     "relevantLinks": [
       {
-        "type": "other",
-        "URL": "https://blog.gimco.es"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/"
       },
       {
         "type": "github",
@@ -31,22 +31,47 @@
         "URL": "https://twitter.com/gimco"
       },
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/"
+        "type": "other",
+        "URL": "https://blog.gimco.es"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Clojure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
           "type": "technology"
         }
       },
@@ -70,32 +95,28 @@
       },
       {
         "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Spring",
           "type": "technology"
         }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Continuous learning",
+          "type": "practice"
+        }
       },
       {
         "skill": {
-          "name": "Clojure",
-          "type": "technology"
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactivity",
+          "type": "practice"
         }
       }
     ]
@@ -104,8 +125,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/"
+          "URL": "https://www.linkedin.com/in/bruno-orcha-garc%C3%ADa-4bba7528/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/gimco/",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/gimco",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "gimcoo@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "657303459",
+          "countryCode": "+34"
         }
       ]
     },
@@ -121,5 +159,8 @@
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Estoy buscando nuevos retos, aunque me he animado a escribir al ver la oferta de ThepowerMBA"
   }
 }
